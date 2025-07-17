@@ -1,1 +1,5 @@
-print("hello duniya")
+a=12
+b=122
+c=133
+print(c%b**a)
+
